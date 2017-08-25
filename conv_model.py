@@ -111,6 +111,7 @@ if __name__=="__main__":
     # parse.add_argument("--regu", action="store_true")
     # FLAGS,unparsered=parse.parse_known_args()
     # tf.app.run(main=inference, argv=[sys.argv])
+    # added by Mrs Jiang
 
 
 
